@@ -1,1 +1,1 @@
-printf("hi gandidia")
+print("Hello python")
